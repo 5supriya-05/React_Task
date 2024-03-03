@@ -12,7 +12,14 @@ A brief description of my project.
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
 - [License](#license)
+## Screenshots
+![Screenshot](https://github.com/5supriya-05/React_Task/blob/master/Screenshot%202024-03-03%20110038.png)
 
+# Sort By Date
+![Screenshot](https://github.com/5supriya-05/React_Task/blob/master/Screenshot%202024-03-03%20110104.png)
+
+# Pagination
+![Screenshot](https://github.com/5supriya-05/React_Task/blob/master/Screenshot%202024-03-03%20110135.png)
 ## Features
 
 1. Create 50 records in the database with the following column fields:
