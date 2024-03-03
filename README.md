@@ -1,6 +1,6 @@
 ## My React Task
 
-A brief description of your project.
+A brief description of my project.
 
 ## Table of Contents
 
